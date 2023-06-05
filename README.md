@@ -1,0 +1,2 @@
+# BDAP_HandwrittenCharacterRecognition
+ 手写字符识别项目
